@@ -1,5 +1,3 @@
 # CS-106A-Programming-Methodology
 
-These are my projects from Stanford's CS106A Course that I am taking myself. I will be uploading the rest soon.
-
-The website is: cs106a.stanford.edu. You can see the lecture videos on iTunes or in YouTube.
+These are homework solutions for the Stanford's CS106A Course for my own reference not for distribution. The lectures and handouts are available on Stanford engineering everywhere website. You can also see the lecture videos on iTunes or in YouTube.
