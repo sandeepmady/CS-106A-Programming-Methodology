@@ -14,7 +14,7 @@ public class CollectNewspaper extends SuperKarel {
 	}
 	
 	//Moves to the newspaper
-	public void moveToNews() {
+	private void moveToNews() {
 		move();
 		move();
 		turnRight();
@@ -24,7 +24,7 @@ public class CollectNewspaper extends SuperKarel {
 	}
 	
 	// Comes back to the initial position 
-	public void comeBack() {
+	private void comeBack() {
 		turnAround();
 		move();
 		move();
